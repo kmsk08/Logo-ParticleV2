@@ -1,0 +1,7 @@
+{
+  "name": "Cosmic Particle Weaver logo",
+  "description": "An interactive particle system that transforms images into a dispersible universe of stardust using HTML5 Canvas and React. Supports uploading your own images or generating cosmic art via Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
